@@ -63,7 +63,3 @@ graph LR
 W[Welcome] --> PT[Poetry tab] --> AL((Authors list)) --> AD((Author details))
 W --> A(Account Tab) --> P((Profile))
 ```
-
-## Licence
-This project and its contents are intended for use by individuals directly associated with Petco. Sharing, distributing, or replicating this project, in whole or in part, is strictly limited to authorized personnel within the company or those with explicit permission from Petco.
-This project may contain proprietary and confidential information protected under applicable laws and agreements. Unauthorized sharing with individuals or entities not affiliated with the company is strictly prohibited and may result in disciplinary action and/or legal consequences.
