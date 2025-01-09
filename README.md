@@ -2,6 +2,7 @@
 
 **Hi Candidate,**  
 Welcome to our Android mobile technical test, called _TestWithPoetry_. At Petco, we’ll use this test to evaluate your skills.
+In order to evaluated you should folk this project and upload your changes in your personal github account.
 Best of luck—we believe in you!
 
 # General info
