@@ -3,7 +3,11 @@
 **Hi Candidate,**  
 Welcome to our Android mobile technical test, called _TestWithPoetry_. At Petco, we’ll use this test to evaluate your skills.
 In order to evaluated what you have done, you may folk this project and upload your changes in your personal github account.
-Best of luck—we believe in you!
+
+All your progress will be review in Github so please upload your changes in your folk repository and be sure to create a pull request
+ones you finish so we can see your changes.
+
+Best of luck — we believe in you!
 
 # General info
 This trial should be build in compose views.
